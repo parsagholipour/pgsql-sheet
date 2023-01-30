@@ -10,3 +10,7 @@
 
 #### Restart
 ```sudo systemctl restart postgresql```
+
+## Postgres shell
+```sudo -i -u postgres```
+``` psql ```
