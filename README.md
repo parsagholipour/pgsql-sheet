@@ -36,3 +36,7 @@ sudo -u postgres psql
 ```
 \password postgres
 ```
+## Restore DB
+```
+psql database_name < database_name_20160527.sql
+```
