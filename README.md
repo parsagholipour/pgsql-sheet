@@ -28,3 +28,11 @@ sudo -i -u postgres
 ```
 psql
 ```
+
+## Change password
+```
+sudo -u postgres psql
+```
+```
+\password postgres
+```
